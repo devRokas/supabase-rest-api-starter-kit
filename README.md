@@ -17,11 +17,11 @@ You can setup this API in 4 steps:
 3. Add secrets:
    
    In order for this API to be deployed automatically we need to set these secrets in our repository:
-
- - SUPABASE_ACCESS_TOKEN
- - SUPABASE_DB_PASSWORD
- - SUPABASE_PROJECT_ID
-
+```
+ SUPABASE_ACCESS_TOKEN
+ SUPABASE_DB_PASSWORD
+ SUPABASE_PROJECT_ID
+```
 4. Trigger the deployment workflow
 
 # Feedback
