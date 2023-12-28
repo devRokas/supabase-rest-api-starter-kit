@@ -16,7 +16,7 @@ You can setup this API in 4 steps:
    
 3. Add secrets:
    
-   In order for this API to be deployed automatically we need to set these secrets in our repository:
+In order for this API to be deployed automatically we need to set these secrets in our repository:
 ```
  SUPABASE_ACCESS_TOKEN
  SUPABASE_DB_PASSWORD
